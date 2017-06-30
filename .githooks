@@ -1,0 +1,2 @@
+#!/bin/sh
+curl http://54.169.34.201:8080/git/notifyCommit?url=file://c:/Documents/aws-codedeploy-sample-tomcat
